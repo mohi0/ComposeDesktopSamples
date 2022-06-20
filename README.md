@@ -1,2 +1,2 @@
 # ComposeDesktopSamples
-A repository for JetpackComposeDesktopSamples
+A repository for kotlin Compose Desktop Samples
