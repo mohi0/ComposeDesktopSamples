@@ -1,2 +1,2 @@
-# JetpackComposeDesktopSamples
+# ComposeDesktopSamples
 A repository for JetpackComposeDesktopSamples
